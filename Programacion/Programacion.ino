@@ -139,6 +139,7 @@ void loop()
 				CloseCurtain();
 				AuxBool = true;
 				break;
+				
 			}
 		}
 			}
